@@ -1,4 +1,4 @@
-# mc-util
+# mc-random
 
 *Easily randomise resource/datapacks for Minecraft*
 
@@ -15,9 +15,9 @@ I recommend creating a virtual environment rather than installing all the depend
 
 ### Instructions for Unix (and the like)
 
-1. `git clone https://github.com/raggebatman/mc-util`
+1. `git clone https://github.com/raggebatman/mc-random`
 
-2. `cd mc-util`
+2. `cd mc-random`
 
 3. `python3 -m venv .venv`
 
@@ -27,9 +27,9 @@ I recommend creating a virtual environment rather than installing all the depend
 
 ### Instructions for Windows
 
-1. `git clone https://github.com/raggebatman/mc-util`
+1. `git clone https://github.com/raggebatman/mc-random`
 
-2. `cd mc-util`
+2. `cd mc-random`
 
 3. `py -m venv .venv`
 
